@@ -39,3 +39,5 @@ Ferramentas utilizadas e bibliotecas
 
 * **Gabriel Alberto de Oliveira** - *Trabalho Inicial* - ABSTRATA_PRODUTO
 
+*![Captura de tela 2024-11-27 214251](https://github.com/user-attachments/assets/145de66c-f5c0-4dcd-9260-343e32452f26)
+

@@ -1,4 +1,4 @@
-# ABSTRATA_PRODUTO
+# CONTROLE_PRODUTOS
 
 Projeto trablha com metodos abstract e herança em outras classes no contexto de produtos com margem de lucro 
 
@@ -39,7 +39,7 @@ Ferramentas utilizadas e bibliotecas
 
 ## ✒️ Autores
 
-* **Gabriel Alberto de Oliveira** - *Trabalho Inicial* - ABSTRATA_PRODUTO
+* **Gabriel Alberto de Oliveira** - *Trabalho Inicial* - CONTROLE_PRODUTOS
 
 *![Captura de tela 2024-11-27 214251](https://github.com/user-attachments/assets/145de66c-f5c0-4dcd-9260-343e32452f26)
 

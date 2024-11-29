@@ -42,4 +42,6 @@ Ferramentas utilizadas e bibliotecas
 * **Gabriel Alberto de Oliveira** - *Trabalho Inicial* - CONTROLE_PRODUTOS
 
 *![Captura de tela 2024-11-27 214251](https://github.com/user-attachments/assets/145de66c-f5c0-4dcd-9260-343e32452f26)
+*![Captura de tela 2024-11-29 195713](https://github.com/user-attachments/assets/592dc24b-a87b-4bac-99f5-229cf051a322)
+
 
